@@ -1,6 +1,6 @@
 {
   "name": "react-keyboard-shortcut-events",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "dependencies": {
     "@babel/preset-env": "^7.16.4",
     "@babel/preset-react": "^7.16.0",
-    "babel-loader": "^8.1.0",
+    "babel-loader": "8.1.0",
     "buffer": "^6.0.3",
     "clean-webpack-plugin": "^4.0.0",
     "keypress": "^0.2.1",
