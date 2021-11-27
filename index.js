@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import keypress from 'keypress.js';
+import keypress from 'keypress';
 
 const KeyboardShortcut = ({ combo, callback, children }) => {
   useEffect(() => {
